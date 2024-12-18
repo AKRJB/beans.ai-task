@@ -1,0 +1,20 @@
+body {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.left-box {
+  width: 45%;
+  height: full;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.rigth-box {
+  width: 45%;
+  height: 400px;
+  overflow-y: scroll;
+  border: 1px solid black;
+  padding: 10px;
+}
